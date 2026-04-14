@@ -1,0 +1,20 @@
+{
+    "nome": "LED",
+    "version": "1.0.0",
+    "description": "biblioteca para controle não bloqueante de lED com suporte a ligar, desligar, alternar, temporização e piscadas",
+    "keywords": [
+        "led",
+        "arduino",
+        "esp32",
+        "non-blocking"
+    ],
+    "authors": [
+        {
+            "nome": "Heitor Dias do Couto Luque"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "headers": "LED.h"
+}
